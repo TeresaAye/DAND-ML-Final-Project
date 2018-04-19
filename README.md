@@ -1,10 +1,16 @@
 # DAND-ML-Final-Project
-Final Project for Udacity DataAnalytics Nanodegree Machine Learning Module
+Final Project for Udacity Data Analyst Nanodegree Machine Learning Module
 
-Mar 5, 2018 submission # 3:
+Mar 5, 2018 final submission.
 
-Thank you for all the help.
+This was a very intense Machine Learning module of the Udacity Data Analyst Nanodegree.
 
-I'm glad that tester.py is working for the reviewer now.
-Teresa
+Run the poi_id.py python program which will call the other programs and load the data.
+
+The pdf document is the review by Udacity team.
+
+This was my first Machine Learning project. 
+
+I've since received / completed the Udacity certificate for the Data Analytics Nanodegree, 
+but I'm still learning, and will continue learning and practicing. :)
 
