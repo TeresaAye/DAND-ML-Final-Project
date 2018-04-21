@@ -11,6 +11,6 @@ The pdf document is the review by Udacity team.
 
 This was my first Machine Learning project. 
 
-I've since received / completed the Udacity certificate for the Data Analytics Nanodegree, 
+I've since received / completed the Udacity certificate for the Data Analyst Nanodegree, 
 but I'm still learning, and will continue learning and practicing. :)
 
