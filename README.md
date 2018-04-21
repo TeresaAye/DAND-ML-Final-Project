@@ -7,7 +7,9 @@ This was a very intense Machine Learning module of the Udacity Data Analyst Nano
 
 Run the poi_id.py python program which will call the other programs and load the data.
 
-The pdf document is the review by Udacity team.
+Read the pdf "...Final_Project..." for my documentation of my project.
+
+The "...Review..." pdf document is the review by Udacity team.
 
 This was my first Machine Learning project. 
 
