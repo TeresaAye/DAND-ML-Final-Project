@@ -1,4 +1,4 @@
-# DAND-ML-Final-Project
+# Machine Learning Final-Project
 Final Project for Udacity Data Analyst Nanodegree Machine Learning Module
 
 Mar 5, 2018 final submission.
